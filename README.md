@@ -1,4 +1,4 @@
-# 394-final-project-python-regex
+# final-project-python-regex-impl
 Linear time Python regular expression matching
 
 I implemented Thompson's NFA algorithm for regular expression pattern matching for my Computational Linguistics final project.
